@@ -32,7 +32,7 @@
             });
             $("#se").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/explanations/technology/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%ae%d9%84%d9%8a%d8%ac/");
             });
   $("#mi").click(function () {
                 // Update the source of the iframe
