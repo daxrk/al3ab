@@ -49,7 +49,7 @@
             });
             $("#sport").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/explanations/gameex/");
+                $("iframe").attr("src", "https://al3abapk.com/category/seo/");
             });
             $("#seicurty").click(function () {
                 // Update the source of the iframe
