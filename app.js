@@ -41,11 +41,11 @@
   
             $("#news").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/mobile-apps/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%85%d8%aa%d9%86%d9%88%d8%b9%d9%87/");
             });
             $("#torke").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/mobile-games/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%a7%d9%84%d8%b9%d8%a7%d8%a8/");
             });
             $("#sport").click(function () {
                 // Update the source of the iframe
@@ -53,35 +53,35 @@
             });
             $("#seicurty").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/privacy-policy/");
+                $("iframe").attr("src", "https://al3abapk.com/privacy-policy/");
             });
             $("#callme").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/contact-us/");
+                $("iframe").attr("src", "https://al3abapk.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/");
             });
             $("#who").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/who-are-we/");
+                $("iframe").attr("src", "https://al3abapk.com/%d9%85%d9%86-%d9%86%d8%ad%d9%86/");
             });
    $("#apk").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/mobile-apps/apps-plus/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%85%d8%aa%d9%86%d9%88%d8%b9%d9%87/");
             });
      $("#game").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/mobile-games/game-plus/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%a7%d9%84%d8%b9%d8%a7%d8%a8/");
             });
      $("#web").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/explanations/the-best-sites/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%a7%d9%84%d8%b1%d8%a8%d8%ad-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/");
             });
      $("#fre").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/free-fire-name-generator/");
+                $("iframe").attr("src", "https://al3abapk.com/category/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%ae%d9%84%d9%8a%d8%ac/");
             });
   $("#pubg").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/pubg-name-generator/");
+                $("iframe").attr("src", "https://al3abapk.com/category/seo/");
             });
             $("#open-menu").click(function () {
                 openNav();
