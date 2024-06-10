@@ -20,15 +20,15 @@
             // When the element with the ID 'se' is clicked
             $("#home").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net");
+                $("iframe").attr("src", "https://al3abapk.com/");
             });
             $("#home1").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net");
+                $("iframe").attr("src", "https://al3abapk.com/");
             });
             $("#me").click(function () {
                 // Update the source of the iframe
-                $("iframe").attr("src", "https://www.mobilltna.net/who-are-we/");
+                $("iframe").attr("src", "https://daxrk.github.io/al3ab/app.html");
             });
             $("#se").click(function () {
                 // Update the source of the iframe
