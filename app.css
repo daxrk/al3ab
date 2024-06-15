@@ -89,7 +89,22 @@ footer span {
 
 
 }
-
+a#dark::after {
+    content: "\f105";
+    position: absolute;
+    right: 0;
+    margin-right: 13px;
+    font-size: 13px;
+    color: #606060;
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+a#dark i.fa.fa-angle-right {
+    display: none;
+}
 #no a {
     color: inherit;
     text-decoration: none;
