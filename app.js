@@ -115,12 +115,12 @@
 
             if (darkMode) {
             $("#dark").text("الوضع الضوء");
-            $("#dark-link").attr("href", "####");
+            $("#dark").attr("href", "####");
         } else {
             $("#dark").text("الوضع الداكن");
        
             // Set href values for light mode
-            $("#dark-link").attr("href", "##");
+            $("#dark").attr("href", "##");
         }
             });
 
